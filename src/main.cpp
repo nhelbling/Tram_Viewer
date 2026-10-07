@@ -30,7 +30,7 @@ void setup() {
   tft.setTextColor(ILI9341_YELLOW);
   tft.setTextSize(2);
   tft.setCursor(10, 10);
-  tft.println("TRAM ABFAHRTEN Saalsporthall");
+  tft.println("TRAM ABFAHRTEN");
   
   // WIFI CONNECTION -------------------------------------------------------
   setup_Wifi();
